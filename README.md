@@ -1,4 +1,3 @@
-# loan_prediction
 # Loan Status Prediction Using Machine Learning
 
 ## Project Overview
